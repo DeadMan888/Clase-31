@@ -1,2 +1,2 @@
-# Clase-31
-G.
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
